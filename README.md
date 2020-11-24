@@ -1,6 +1,6 @@
 ## Hi there, I'm Andrew!! 👋
 
-I'm Andrew, a software engineer working with Python, Javascript, Docker, Docker-Compose and Typescript. 
+I'm Andrew, a software developer working with Python, Javascript, Docker, Docker-Compose and  Typescript. (still learning typescript)
 
 I'm self-taught and im studying a few things.. Client server architecture, Backend-Systems and Business Logic.
 
