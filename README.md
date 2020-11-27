@@ -2,7 +2,7 @@
 
 I'm Andrew, a software developer working with Python, Javascript, Docker, Docker-Compose and  Typescript. (still learning typescript)
 
-I'm self-taught and im studying a few things.. Client server architecture, Backend-Systems and Business Logic.
+I'm currently working on a few projects such as Mantle, Utility Bot and my personal website!
 
 Check out some of my projects and if you want contact me here! Flop#7234 or andrewnijmeh1@gmail.com
 
