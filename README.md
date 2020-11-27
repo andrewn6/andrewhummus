@@ -8,3 +8,22 @@ Check out some of my projects and if you want contact me here! Flop#7234 or andr
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewnijmeh&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewnijmeh&layout=compact&card_width=250&hide_border=true"/>
+
+ - name: Dart
+  logo: dart
+  url: https://dart.dev/
+  color: 52C0F2
+  projects:
+    - https://github.com/fluttercommunity/import_sorter
+    - https://github.com/Matt-Gleich/Personal-Site
+    - url: https://github.com/Matt-Gleich/auralite-mobile
+      wip: true
+- name: Javascript
+  logo: javascript
+  url: https://en.wikipedia.org/wiki/JavaScript
+  color: FFFF00
+  projects:
+    - https://github.com/andrewnijmeh/andrewnijmeh.net
+    - url: https://github.com/MantleLLC/website
+    - url: https://github.com/fullstack-lounge/quizzapp
+      wip: true
