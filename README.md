@@ -9,6 +9,9 @@ Check out some of my projects and if you want contact me here! Flop#7234 or andr
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewnijmeh&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewnijmeh&layout=compact&card_width=250&hide_border=true"/>
 
+<div>
+  <p>Here are a list of some of my projects!<p>
+ </div>
  <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
