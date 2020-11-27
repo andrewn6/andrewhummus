@@ -1,10 +1,10 @@
 ## Hi there, I'm Andrew!! 👋
 
-I'm Andrew, a software developer working with Python, Javascript, Docker, Docker-Compose and  Typescript. (still learning typescript)
+I'm Andrew, a software developer working with Python, Javascript, React, Docker, Docker-Compose and  Typescript. (still learning typescript)
 
 I'm currently working on a few projects such as Mantle, Utility Bot and my personal website!
 
-I'm currently learning how to scale web-applications and Typescript.
+I'm currently learning how to scale web-applications typescript and react.
 
 Check out some of my projects and if you want contact me here! Flop#7234 or andrewnijmeh1@gmail.com
 
