@@ -11,7 +11,6 @@ Check out some of my projects and if you want contact me here! Flop#7234 or andr
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewnijmeh&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewnijmeh&layout=compact&card_width=250&hide_border=true"/>
 
-### Skills
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
