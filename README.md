@@ -9,10 +9,7 @@ I'm currently learning how to scalable web-applications typescript and react.
 Check out some of my projects and if you want contact me here! Flop#7234 or andrewnijmeh1@gmail.com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewnijmeh&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewnijmeh&layout=compact&card_width=250&hide_border=true"/>
 
-
-<div class="skills">
     
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,12 +20,6 @@ Check out some of my projects and if you want contact me here! Flop#7234 or andr
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
   [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
   [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-  <style>
-  .skills{
-    text-align: center;
-  }
-</div>
 
 
 
