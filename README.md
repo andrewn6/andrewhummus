@@ -23,8 +23,6 @@ Check out some of my projects and if you want contact me here! Flop#7234 or andr
 
 
 # Gear
-
-## Peripherals
 - GK61
 - Logitech G305
 - SteelSeries medium size mouse pad
@@ -40,6 +38,8 @@ Check out some of my projects and if you want contact me here! Flop#7234 or andr
 - 32 GB of DDR4 3200MHZ RAM
 - GTX 1060
 - B450 Motherboard by ASROCK
+
+
 
 
 
