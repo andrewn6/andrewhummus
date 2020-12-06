@@ -22,25 +22,3 @@ Check out some of my projects and if you want contact me here! Flop#7234 or andr
   [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
-# Gear
-- GK61
-- Logitech G305
-- SteelSeries medium size mouse pad
-- RPI'4 4GB RAM.
-- Razer Kraken X Black edition
-
-- Monitor's
-- LG 23MP75
-- DELL (Portrait mode idk the model)
-
-## Specs
-- Ryzen 2600x 6 core CPU and 12 threads
-- 32 GB of DDR4 3200MHZ RAM
-- GTX 1060
-- B450 Motherboard by ASROCK
-
-
-
-
-
-
