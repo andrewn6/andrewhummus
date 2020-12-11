@@ -1,4 +1,4 @@
-## Hi there, I'm Andrew!! 👋
+## 👨🏻‍💻 Hi there, I'm Andrew!! 👋
 
 I'm Andrew, a software developer working with Python, Javascript, React, Docker, Docker-Compose and  Typescript. (still learning typescript)
 
