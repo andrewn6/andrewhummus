@@ -6,7 +6,7 @@ I'm currently working on a few projects such as Mantle, Utility Bot and my perso
 
 I'm currently learning how to scale up web-applications typescript and react.
 
-Check out some of my projects and if you want contact me here! Flop#7234 or andrewnijmeh1@gmail.com
+Check out some of my projects and if you want contact me here! Flop#7234
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrewnijmeh&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
 
