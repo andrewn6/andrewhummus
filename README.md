@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Hi there, I'm Andrew!! 👋
 
-I'm Andrew, a software developer working with Python, Javascript, React, Docker, Docker-Compose and  Typescript. (still learning typescript)
+I'm Andrew, a software developer working with Python, Javascript, React, Docker, Docker-Compose and  Typescript
 
 I'm currently working on a few projects such as Mantle, Utility Bot and my personal website!
 
