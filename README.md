@@ -4,4 +4,4 @@
 
 I am currently learning ML/AI, And working on mantle.gg and mpl.gg💻
 
-Feel free to contact me at: andrewnijmeh1@gmail.com or matrix (discord kinda sucks) https://matrix.to/#/!opwkeiREEDwzVihOLk:matrix.org?via=matrix.org
+Feel free to contact me at: andrewnijmeh@mailfence.com or matrix  https://matrix.to/#/!opwkeiREEDwzVihOLk:matrix.org?via=matrix.org
