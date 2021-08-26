@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewnijmeh&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
-I'm currently working @ ACQYR Inc. As a software engineer.
+<h3>🖥️ I'm currently working @ ACQYR Inc. As a software engineer.</h3>
 
 <h3 align="left">Feel free to contact with me via matrix or twitter:</h3>
 <p align="left">
