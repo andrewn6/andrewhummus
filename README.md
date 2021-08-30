@@ -6,7 +6,7 @@
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=notandrewdev&count_private=true&include_all_commits=true&theme=onedark" alt="notandrewdev" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewnijmeh&layout=compact&theme=onedark&langs_count=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notandrewdev&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
 <h3>🖥️ I'm currently working @ ACQYR Inc. As a software engineer.</h3>
