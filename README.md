@@ -1,5 +1,4 @@
 <h1 align="center">😄 Hey there! I'm Andrew.</h1>
-https://camo.githubusercontent.com/91bfde8efe71daaa0b24c5ffc2f24a82dc394b0da9fc4f94115c7d437c57a8b4/68747470733a2f2f6173736574732e6861636b636c75622e636f6d2f666c61672d7374616e64616c6f6e652e737667
 <h3 align="center">a 13 y/o software-engineer based in Canada.</h3>
 
 
