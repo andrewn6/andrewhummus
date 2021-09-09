@@ -9,7 +9,7 @@
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=notandrewdev&count_private=true&include_all_commits=true&theme=onedark" alt="notandrewdev" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notandrewdev&layout=compact&theme=onedark&langs_count=15" />
 <script src="https://summer.hackclub.com/scrapbookwidget.js"></script>
-<script>displayScrapbookUsername('username')</script>
+<script>displayScrapbookUsername('andrewnijmeh')</script>
 </div>
 
 <h3>🖥️ I'm currently working @ ACQYR Inc. As a software engineer.</h3>
