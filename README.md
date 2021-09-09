@@ -1,4 +1,5 @@
 <h1 align="center">😄 Hey there! I'm Andrew.</h1>
+<p align="center"><img width="192" alt="Hack Club logo" src="https://assets.hackclub.com/flag-standalone.svg"></p>
 <h3 align="center">a 13 y/o software-engineer based in Canada.</h3>
 
 
