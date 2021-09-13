@@ -1,6 +1,6 @@
 <p align="center"><img width="192" alt="Hack Club logo" src="https://assets.hackclub.com/flag-standalone.svg"></p>
 <h1 align="center">😄 Hey there! I'm Andrew.</h1>
-<h3 align="center">a 13 y/o software-engineer based in Canada.</h3>
+<h3 align="center">a software-engineer based in Canada.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notandrewdev&theme=onedark&margin-w=15&margin-h=15&column=7" alt="notandrewdev" /></a> </p>
