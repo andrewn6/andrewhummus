@@ -1,4 +1,4 @@
-<p align="center"><img width="192" alt="Hack Club logo" src="https://assets.hackclub.com/flag-standalone.svg"></p>
+<p align="center"><img width="192" alt="Hack Club logo" src="https://assets.hackclub.com/flag-orpheus-top.svg"></p>
 <h1 align="center">😄 Hey there! I'm Andrew.</h1>
 <h3 align="center">a software-engineer based in Canada.</h3>
 
