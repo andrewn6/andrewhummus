@@ -15,8 +15,8 @@ Contact me via [Twitter](https://twitter.com/acn_dev).
 
 Or feel free to email me:
 
-***Business Inquries***: andrew@nijmeh.xyz
-***Personal Inquries***: andrewnijmeh1@gmail.com
+**Business Inquries**: andrew@nijmeh.xyz
+**Personal Inquries**: andrewnijmeh1@gmail.com
 
 **GPG**: 9BA0A5DD1CBB30CF2CBE462E3BF15375C9F227A0
 **BTC**: bc1qsuczk5rcmsvqn89jq2tc0avmpx9j343wd3mrnw
