@@ -20,7 +20,7 @@ Or feel free to email me:
 
 **Personal Inquries**: andrewnijmeh1@gmail.com
 
-**GPG**: 9BA0A5DD1CBB30CF2CBE462E3BF15375C9F227A0
+**PGP Fingerprint**: 9BA0 A5DD 1CBB 30CF 2CBE  462E 3BF1 5375 C9F2 27A0
 
 **BTC**: bc1qsuczk5rcmsvqn89jq2tc0avmpx9j343wd3mrnw
 
