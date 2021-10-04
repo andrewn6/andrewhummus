@@ -20,6 +20,9 @@ Or feel free to email me:
 **Personal Inquries**: andrewnijmeh1@gmail.com
 
 **GPG**: 9BA0A5DD1CBB30CF2CBE462E3BF15375C9F227A0
+
 **BTC**: bc1qsuczk5rcmsvqn89jq2tc0avmpx9j343wd3mrnw
+
 **XMR**: 43MbmuAQxdL12nA2Bem43C9Yaxj5p5rWD99iy4D56yEHP2xisL5kYsABsZvbPv8vEXAHiYmBztDPSPXbzi9tdE4B6JCAH8M
+
 **ETH**: 0xf8aaF23A01857A58643EFef1CEC42e71ff7b3704
