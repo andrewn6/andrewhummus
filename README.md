@@ -1,4 +1,4 @@
-### Hey, I'm Andrew 
+### Hey, I'm Andrew 👋🏼
 
 I'm a 13 year old software engineer.
 
@@ -16,6 +16,7 @@ Contact me via [Twitter](https://twitter.com/acn_dev).
 Or feel free to email me:
 
 **Business Inquries**: andrew@nijmeh.xyz
+
 **Personal Inquries**: andrewnijmeh1@gmail.com
 
 **GPG**: 9BA0A5DD1CBB30CF2CBE462E3BF15375C9F227A0
