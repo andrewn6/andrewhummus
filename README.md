@@ -16,9 +16,9 @@ Contact me via [Twitter](https://twitter.com/acn_dev).
 
 Or feel free to email me:
 
-**Business Inquries**: andrew@nijmeh.xyz
+**Business Inquries**: business@nijmeh.xyz
 
-**Personal Inquries**: andrewnijmeh1@gmail.com
+**Personal Inquries**: andrew@nijmeh.xyz
 
 **PGP Fingerprint**: 9BA0 A5DD 1CBB 30CF 2CBE  462E 3BF1 5375 C9F2 27A0
 
