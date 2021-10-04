@@ -8,6 +8,7 @@ I'm currently working @ plr.me, and [HaaS](hackclub.app) - 📦 The app platform
 
 ## 🖥️ Experience
 I've been programming since 11, during my time of development I've learnt alot about programming fundamentals, software design and security.
+I currently code in TypeScript, Python and I work with Rust from time to time.
 
 ## 📫 Contact
 
