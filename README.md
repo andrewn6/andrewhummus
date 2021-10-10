@@ -12,7 +12,7 @@ I currently code in TypeScript, Python and I work with Rust from time to time.
 
 ## 📫 Contact
 
-Contact me via [Twitter](https://twitter.com/acn_dev).
+Contact me via [Twitter](https://twitter.com/dev_acn).
 
 Or feel free to email me:
 
