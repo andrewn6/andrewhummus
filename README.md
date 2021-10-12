@@ -1,6 +1,6 @@
 ### Hey, I'm Andrew 👋🏼
 
-I'm a 13 year old software engineer.
+I'm a 13 year old software engineer from Canada.
 
 ## 🔭 Current
 
