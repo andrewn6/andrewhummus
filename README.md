@@ -18,7 +18,7 @@ Or feel free to email me:
 
 **Business Inquries**: business@nijmeh.xyz
 
-**Personal Inquries**: andrew@nijmeh.xyz
+**Personal Inquries**: hi@nijmeh.xyz
 
 **PGP Fingerprint**: 9BA0 A5DD 1CBB 30CF 2CBE  462E 3BF1 5375 C9F2 27A0
 
