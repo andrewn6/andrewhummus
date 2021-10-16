@@ -1,6 +1,6 @@
 ### Hey, I'm Andrew 👋🏼
 
-I'm a 13 year old software engineer from Canada.
+I'm a 13 years old, and I build scalable, fast and accessible software.
 
 ## 🔭 Current
 
