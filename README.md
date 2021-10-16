@@ -7,8 +7,8 @@ I'm a 13 year old software engineer from Canada.
 I'm currently working @ plr.me, and [HaaS](hackclub.app) - 📦 The app platform for @hackclub students.
 
 ## 🖥️ Experience
-I've been programming since 11, during my time of development I've learnt alot about programming fundamentals, software design and security.
-I currently code in TypeScript, Python and I work with Rust from time to time.
+I've been programming since eleven years-old, ever since then I've loved working with the latest bleeding edge technology like
+React, TypeScript and Docker to ease work in development/production environments
 
 ## 📫 Contact
 
