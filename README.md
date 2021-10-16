@@ -28,4 +28,4 @@ Or feel free to email me:
 
 **ETH**: 0xf8aaF23A01857A58643EFef1CEC42e71ff7b3704
 
-![Hits](https://hits.link/hits?url=github.com/notandrewdev)
+![Hits](https://hits.link/hits?url=https://github.com/notandrewdev)
