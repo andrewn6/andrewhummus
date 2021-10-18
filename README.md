@@ -2,6 +2,8 @@
 
 I'm 13 years old and I build scalable, fast and accessible software.
 
+<iframe src="https://github.com/sponsors/notandrewdev/card" title="Sponsor notandrewdev" height="225" width="600" style="border: 0;"></iframe>
+
 ## 🔭 Current
 
 I'm currently working @ plr.me, and [HaaS](hackclub.app) - 📦 The app platform for @hackclub students.
