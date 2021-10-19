@@ -1,5 +1,7 @@
 ### Hey, I'm Andrew 👋🏼
 
+![Metrics](https://metrics.lecoq.io/notandrewdev?template=classic&achievements=1&gists=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FToronto)
+
 I'm 13 years old and I build scalable, fast and accessible software.
 
 ## 🔭 Current
@@ -30,4 +32,4 @@ Or feel free to email me:
 
 ![Hits](https://hits.link/hits?url=https://github.com/notandrewdev)
 
-![Metrics](https://metrics.lecoq.io/notandrewdev?template=classic&achievements=1&gists=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FToronto)
+
