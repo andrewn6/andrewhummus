@@ -4,7 +4,7 @@ I'm 13 years old and I build scalable, fast and accessible software.
 
 ## 🔭 Current
 
-I'm currently working @ plr.me, and [HaaS](hackclub.app) - 📦 The app platform for @hackclub students.
+I'm currently working @ plr.me, and [HaaS](https://hackclub.app) - 📦 The app platform for @hackclub students.
 
 ## 🖥️ Experience
 I've been programming since eleven years-old, ever since then I've loved working with the latest bleeding edge technology like
