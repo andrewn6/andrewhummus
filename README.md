@@ -30,4 +30,4 @@ Or feel free to email me:
 
 ![Hits](https://hits.link/hits?url=https://github.com/notandrewdev)
 
-![Metrics](https://metrics.lecoq.io/notandrewdev?template=terminal&gists=1&discussions=1&stars=1&sponsors=1&tweets=1&stars.limit=10&sponsors.sections=goal%2C%20about&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/notandrewdev?template=classic&achievements=1&gists=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FToronto)
