@@ -29,3 +29,5 @@ Or feel free to email me:
 **ETH**: 0xf8aaF23A01857A58643EFef1CEC42e71ff7b3704
 
 ![Hits](https://hits.link/hits?url=https://github.com/notandrewdev)
+
+![Metrics](https://metrics.lecoq.io/notandrewdev?template=terminal&gists=1&discussions=1&stars=1&sponsors=1&tweets=1&stars.limit=10&sponsors.sections=goal%2C%20about&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FToronto)
