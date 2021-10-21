@@ -1,6 +1,6 @@
 ### Hey, I'm Andrew 👋🏼
 
-I'm 13 years old and I build scalable, fast and accessible software.
+I'm 13 years-old and I create software.
 
 ## 🔭 Current
 
