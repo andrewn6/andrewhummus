@@ -7,8 +7,8 @@ I'm 13 years-old and I create software.
 I'm currently working @ plr.me, and [HaaS](https://hackclub.app) - 📦 The app platform for @hackclub students.
 
 ## 🖥️ Experience
-I've been programming since eleven years-old, ever since then I've loved working with the latest bleeding edge technology like
-React, TypeScript and Docker to ease work in development/production environments
+I've Programming since eleven years-old, since then I've learnt alot about cloud computing, architecture and more. I'm a huge fan of
+best-practices and I am a huge supporter of them, a large amount of my projects have linting and CI. I also make sure to follow best git practices.
 
 ## 📫 Contact
 
@@ -20,7 +20,7 @@ Or feel free to email me:
 
 **Personal Inquries**: hi@nijmeh.xyz
 
-**PGP Fingerprint**: 9BA0 A5DD 1CBB 30CF 2CBE  462E 3BF1 5375 C9F2 27A0
+**PGP Fingerprint**: 9BA0A5DD1CBB30CF2CBE462E3BF15375C9F227A0
 
 **BTC**: bc1qsuczk5rcmsvqn89jq2tc0avmpx9j343wd3mrnw
 
