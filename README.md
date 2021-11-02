@@ -31,8 +31,4 @@ Or feel free to email me:
 
 ![Hits](https://hits.link/hits?url=https://github.com/notandrewdev)
 
-<div align="center">
-  <br>
-  <img src="![Metrics](https://metrics.lecoq.io/notandrewdev?template=classic&gists=1&languages=1&activity=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FToronto")
-</div>
 
