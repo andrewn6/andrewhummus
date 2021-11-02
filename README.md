@@ -1,15 +1,15 @@
 ### Hey, I'm Andrew 👋🏼
 
-I'm 13 years-old and I create software.
+I'm 13 years old and I create software.
 
 ## 🔭 Current
 
 I'm currently working @ plr.me, and [HaaS](https://hackclub.app) - 📦 The app platform for @hackclub students.
 
 ## 🖥️ Experience
-I've Programming since eleven years-old, since then I've learnt alot about cloud computing, architecture and more. I'm a huge fan of
-best-practices and I am a huge supporter of them, a large amount of my projects have linting and CI. I also make sure to follow best git practices. I mainly
-code in Python, But I am decent in TypeScript Java and I am currently learning Rust.
+I've been programming since eleven years old. Since then I've learned a lot about cloud computing, architecture and more. I'm a huge fan and supporter of
+best practices, a large amount of my projects have linting and CI. I also make sure to follow best git practices. I mainly
+code in Python, but I am decent in TypeScript Java and I am currently learning Rust.
 
 ## 📫 Contact
 
