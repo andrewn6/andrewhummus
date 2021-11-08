@@ -19,7 +19,7 @@ Or feel free to email me:
 
 **Business Inquries**: business@nijmeh.xyz
 
-**Personal Inquries**: hi@nijmeh.xyz
+**Personal Inquries**: git@nijmeh.xyz
 
 **PGP Fingerprint**: 9BA0A5DD1CBB30CF2CBE462E3BF15375C9F227A0
 
