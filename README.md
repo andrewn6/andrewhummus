@@ -12,10 +12,9 @@ Stack:
 - Solidity - Learning Solidity to write smart contracts on the Ethereum blockchain. (*written simple smart contracts in this language*)
 - Python - First programming language I learnt, used it for a bunch of various projects.
 
-![Hits](https://hits.link/hits?url=https://github.com/notandrewdev)
-
-
 # Contact
 
 **Personal Contact**: andrewn@gmx.com
 **Business Contact**: andrew@triffle.co
+
+![Hits](https://hits.link/hits?url=https://github.com/notandrewdev)
