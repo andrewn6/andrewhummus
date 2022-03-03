@@ -15,6 +15,7 @@ Stack:
 # Contact
 
 **Personal Contact**: andrewn@gmx.com
+
 **Business Contact**: andrew@triffle.co
 
 ![Hits](https://hits.link/hits?url=https://github.com/notandrewdev)
