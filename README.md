@@ -13,6 +13,7 @@ Stack:
 - Python - First programming language I learnt, used it for a bunch of various projects.
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=anddddrew)](https://github.com/anuraghazra/github-readme-stats)
+[![Discord Presence](https://lanyard.cnrad.dev/api/804052488235647017)](https://discord.com/users/804052488235647017)
 
 # Contact
 
