@@ -3,7 +3,7 @@
 I'm currently working at **frenter**, you can learn more about me at my [website](https://nijmeh.xyz).
 
 ## Experience
-I'm experienced in tools like Docker/Docker-compose & Kubernetes (deployments) & AWS. I also use Python, TypeScript, and Rust as my programming languages.
+I have experience in cutting-edge software like docker, kubernetes, aws & languages like typescript, python & rust.
 
 ## Contact
 You can contact me on my [Twitter](https://twitter.com/0xnijmeh).
