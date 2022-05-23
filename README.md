@@ -1,9 +1,7 @@
-# **👋 Hi I'm Andrew**
+👋 Hi I'm Andrew, I am a middle school software developer that is interested in open-source, devops, blockchain & startups 🚀.
 
-I'm currently working at **frenter**, you can learn more about me at my [website](https://nijmeh.xyz).
+I'm experienced in Python & TypeScript, but I've also tinkered with Rust & Go. I also love devops, and have experience in Docker, Kubernetes, Terraform & AWS.
 
-## Experience
-I have experience in cutting-edge software like docker, kubernetes, aws & languages like typescript, python & rust.
+I currently work at (frenter)[https://frenter.com], but I also contribute to open-source, and build a couple side projects here and there.
 
-## Contact
-You can contact me on my [Twitter](https://twitter.com/0xnijmeh).
+<p align="center>[![Andrew'ss GitHub stats](https://github-readme-stats.vercel.app/api?username=anddddrew)](https://github.com/anddddrew/github-readme-stats)</p>
