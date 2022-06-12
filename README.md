@@ -1,4 +1,4 @@
-👋 Hi I'm Andrew `🌁`, I am a middle school software developer that is interested in open-source, devops, blockchain & startups 🚀.
+👋 Hi I'm Andrew`🌁`, I am a middle school software developer that is interested in open-source, devops, blockchain & startups 🚀.
 
 I'm experienced in Python & TypeScript, but I've also tinkered with Rust & Go. I also love devops, and have experience in Docker, Kubernetes, Terraform & AWS.
 
