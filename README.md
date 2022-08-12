@@ -1,4 +1,4 @@
-👋 Hi I'm Andrew`🌁`, I am a highschool sotware engineer interested in cloud computing, infrastructure & blockchain.
+👋 Hi I'm Andrew`🌁`, I am a highschool software engineer interested in cloud computing, infrastructure & blockchain.
 
 I'm experienced in Python & TypeScript, but I've also tinkered with Rust & Go. I also love devops, and have experience in Docker, Kubernetes, Terraform & AWS.
 
