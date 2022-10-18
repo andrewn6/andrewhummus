@@ -5,7 +5,7 @@ My name is Andrew Nijmeh. I'm a hacker & software engineer from Toronto, Ontario
 
 I build personal open-source projects from time to time on this GitHub.
 
-I appreciate any $ donated to me via my GitHub sponsors page (here)[https://github.com/sponsors/anddddrew]
+I appreciate any $ donated to me via my GitHub sponsors page [here](https://github.com/sponsors/anddddrew)
 
 ## experience
 
