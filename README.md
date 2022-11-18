@@ -6,7 +6,7 @@
 I'm currently focusing on my SaaS <a href="https://github.com/substore">Substore</a>. It's a cloud platform for data, we are competing w/ Digitalocean & similar platforms to offer a more reliable & simpler way to deploy and manage your databases.
 
 <details>
-  <summary>Code {}</summary>
+  <summary>Work</summary>
   
   ## Web
   - <a href="https://nijmeh.cloud">website</a>
