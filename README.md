@@ -1,1 +1,1 @@
-https://media0.giphy.com/media/WhoNyvVjuB88HjDK0l/200w.gif?cid=6c09b952gq5eef7ow0vvujbzwfq9pflhu04tu7tlrkdl4yp8&rid=200w.gif&ct=g
+<p align="center"![200w](https://user-images.githubusercontent.com/59238070/202753743-febefbda-772b-4c69-b23d-97acfdabf76d.gif)</p>
