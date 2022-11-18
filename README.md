@@ -4,8 +4,8 @@
 
 👋 Hi, I love to code. You can follow me on <a href="https://twitter.com/0xnijmeh">Twitter</a> or checkout my <a href="https://nijmeh.cloud">Website</a>. Building <a href="https://github.com/anddddrew/repositories">Projects</a> bring me joy. I'm also a big fan of macOS, DevOps & Web.
 
-<details align="center">
-  <summary align="center">Code {}</summary>
+<details>
+  <summary>Code {}</summary>
   
   ## Web
   - <a href="https://nijmeh.cloud">website</a>
