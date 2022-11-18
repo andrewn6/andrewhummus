@@ -15,7 +15,7 @@
   - <a href="https://github.com/anddddrew/openwebrx">openwebrx</a>
   
   ## Misc
-  - <a href="https://github.com/anddddrew/evm">evm</a>
+  - <a align="center" href="https://github.com/anddddrew/evm">evm</a>
   - <a href="https://github.com/anddddrew/polio">polio</a>
   - <a href="https://github.com/anddddrew/rust-nix">rust & nix</a>
   - <a href="https://github.com/anddddrew/bf-haskell">brainf*** interpreter</a>
