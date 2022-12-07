@@ -1,6 +1,3 @@
-
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/59238070/203317267-6d471145-3131-483f-aed6-355cc60c70e1.gif" alt="Screenshot">
-
 👋 Hi, I love to code. You can follow me on <a href="https://twitter.com/0xnijmeh">Twitter</a> or checkout my <a href="https://nijmeh.cloud">Website</a>. Building <a href="https://github.com/anddddrew/repositories">Projects</a> bring me joy. I'm also a big fan of macOS, DevOps & Open-source.
 
 I'm currently focusing on my SaaS <a href="https://github.com/substore">Substore</a>. It's a cloud platform for data, we are competing w/ Digitalocean & similar platforms to offer a more reliable & simpler way to deploy and manage your databases.
