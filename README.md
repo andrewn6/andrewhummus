@@ -19,3 +19,8 @@ I'm currently focusing on my SaaS <a href="https://github.com/substore">Substore
   - <a href="https://github.com/anddddrew/bf-haskell">brainf*** interpreter</a>
   - <a href="https://github.comdiscordutilitybot/utilitybot">deprecated discord bot</a>
 </details>
+
+<details>
+  <summary>Status</summary>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/804052488235647017)](https://discord.com/users/804052488235647017)
+</details
