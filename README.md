@@ -2,6 +2,8 @@
 
 I'm currently focusing on my SaaS <a href="https://github.com/substore">Substore</a>, a cloud platform for data. We are competing w/ DigitalOcean & similar platforms to offer a more reliable & simpler way to deploy and manage your databases.
 
+I'm dabbling with a ton of stuff at the moment! I'm tinkering with hardware & microcontrollers, cloud, systems eng & backend.
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/804052488235647017)](https://discord.com/users/804052488235647017)
 
 <details>
