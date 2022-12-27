@@ -1,4 +1,4 @@
-https://cdn.nijmeh.cloud/Screenshot%202022-12-26%20at%209.38.35%20PM.png
+![image](https://user-images.githubusercontent.com/59238070/209602789-0d694420-e68d-4c12-b833-03176d6e37f5.png)
 
 
 👋 Hi, I love to code. You can follow me on <a href="https://twitter.com/0xnijmeh">Twitter</a> or check out my <a href="https://nijmeh.cloud">Website</a>. Building <a href="https://github.com/anddddrew?tab=repositories">Projects</a> bring me joy. I'm also a big fan of macOS, DevOps & Open-source.
