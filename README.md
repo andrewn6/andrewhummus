@@ -24,6 +24,6 @@ I'm dabbling with a ton of stuff at the moment! I'm tinkering with hardware & mi
   - <a href="https://github.com/anddddrew/polio">polio</a>
   - <a href="https://github.com/anddddrew/rust-nix">rust & nix</a>
   - <a href="https://github.com/anddddrew/bf-haskell">brainf*** interpreter</a>
-  - <a href="https://github.comdiscordutilitybot/utilitybot">deprecated discord bot</a>
+  - <a href="https://github.com/discordutilitybot/utilitybot">deprecated discord bot</a>
 </details>
 
