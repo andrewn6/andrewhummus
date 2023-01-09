@@ -7,6 +7,8 @@ I'm currently focusing on my SaaS <a href="https://github.com/substore">Substore
 
 I'm dabbling with a ton of stuff at the moment! I'm tinkering with hardware & microcontrollers, cloud, systems eng & backend.
 
+Fun fact, my profile picture is made by Stable Diffusion!
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/804052488235647017)](https://discord.com/users/804052488235647017)
 
 <details>
