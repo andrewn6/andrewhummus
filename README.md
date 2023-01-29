@@ -9,8 +9,6 @@ I'm dabbling with a ton of stuff at the moment! I'm tinkering with hardware & mi
 
 Fun fact, my profile picture is made by Stable Diffusion!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/804052488235647017)](https://discord.com/users/804052488235647017)
-
 <details>
   <summary>Work</summary>
   
