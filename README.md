@@ -1,13 +1,9 @@
 ![image](https://user-images.githubusercontent.com/59238070/209602858-215a81df-88b7-44e1-ab96-370671cb5f55.png)
 ---
 
-👋 Hi, I love to code. You can follow me on <a href="https://twitter.com/0xnijmeh">Twitter</a> or check out my <a href="https://nijmeh.cloud">Website</a>. Building <a href="https://github.com/anddddrew?tab=repositories">Projects</a> bring me joy. I'm also a big fan of macOS, DevOps & Open-source.
+hey! I'm Andrew. I'm based in Toronto 🇨🇦. Currently, I am building @substore which is a infra platform for deploying databases, message brokers & more. Previously, I was a founding engineer @ [frenter](https://frenter.com) which raised 700K$ in funding.
 
-I'm currently focusing on my SaaS <a href="https://github.com/substore">Substore</a>, It's a zero-friction database deployment platform.
-
-I'm dabbling with a ton of stuff at the moment! I'm tinkering with hardware & microcontrollers, cloud, systems eng & backend.
-
-Fun fact, my profile picture is made by Stable Diffusion!
+I love chatting w/ like minded people, feel free to email me andrew@nijmeh.cloud or contact me on [twitter](https://twitter.com/0xnijmeh) with any cool ideas you got or if you just wanna say hi!
 
 <details>
   <summary>Work</summary>
