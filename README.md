@@ -1,9 +1,13 @@
 ![image](https://user-images.githubusercontent.com/59238070/209602858-215a81df-88b7-44e1-ab96-370671cb5f55.png)
 ---
 
-hey! I'm Andrew. I'm based in Toronto 🇨🇦. Currently, I am building @substore which is a infra platform for deploying databases, message brokers & more. Previously, I was a founding engineer @ [frenter](https://frenter.com) which raised 700K$ in funding.
-
+hey! I'm Andrew. I'm based in Toronto 🇨🇦. Currently I am focused on building 
 I love chatting w/ like minded people, feel free to email me andrew@nijmeh.cloud or contact me on [twitter](https://twitter.com/0xnijmeh) with any cool ideas you got or if you just wanna say hi!
+
+## Skills
+- Go, TypeScript, Python
+- Cloud/DevOps
+- Next, React, Tailwind 
 
 <details>
   <summary>Work</summary>
