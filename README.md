@@ -1,11 +1,10 @@
 ![image](https://user-images.githubusercontent.com/59238070/209602858-215a81df-88b7-44e1-ab96-370671cb5f55.png)
 ---
 
-hey! I'm Andrew. I'm based in Toronto 🇨🇦. Currently I am focused on building 
-I love chatting w/ like minded people, feel free to email me andrew@nijmeh.cloud or contact me on [twitter](https://twitter.com/0xnijmeh) with any cool ideas you got or if you just wanna say hi!
+hey I'm Andrew! I am based in Toronto, Ontario. Currently interested in infrastructure & distributed systems :).
 
 ## Skills
-- Go, TypeScript, Python
+- Go, TypeScript, Python, Rust
 - Cloud/DevOps
 - Next, React, Tailwind 
 
