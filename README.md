@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/59238070/209602858-215a81df-88b7-44e1-ab96-370671cb5f55.png)
 ---
 
-hey I'm Andrew! I am based in Toronto, Ontario. Currently interested in infrastructure & distributed systems :).
+hey I'm Andrew! I am based in Toronto, Ontario. Currently working @ [Dimension](https://dimension.dev)
 
 ## Skills
 - Go, TypeScript, Python, Rust
