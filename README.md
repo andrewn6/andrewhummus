@@ -1,1 +1,3 @@
-Infrastructure engineer based in Canada working @ [https://dimension.dev](Dimension)
+Infrastructure engineer based in Canada working @ [Dimension](https://dimension.dev)
+
+Want to chat? Email me here: andrew@nijmeh.world
