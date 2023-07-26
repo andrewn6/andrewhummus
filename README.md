@@ -1,7 +1,12 @@
-Infrastructure engineer based in Canada working @ [Dimension](https://dimension.dev)
+Hi I'm Andrew, I'm based in Ontario. I'm interested in systems & infrastructure engineering.
 
-Interested in distributed systems and infrastructure. 
+I currently work at [Dimension](https://dimension.dev] working with infrastructure, systems & lots of Rust 🦀.
 
-My [Website](https://nijmeh.world) is here if you would like to learn more about me.
+## Skills
 
-Want to chat? Email me here: andrew@nijmeh.world or schedule a [call](https://cal.com/nijmeh).
+- [Rust](https://rust-lang.org)
+- [Go](https://go.dev) 
+- [TypeScript](https://www.typescriptlang.org/)
+- [gRPC](https://grpc.io)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Nix](https://nixos.org)
