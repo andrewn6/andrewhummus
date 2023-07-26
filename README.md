@@ -1,6 +1,6 @@
 Hi I'm Andrew, I'm based in Ontario. I'm interested in systems & infrastructure engineering.
 
-I currently work at [Dimension](https://dimension.dev] working with infrastructure, systems & lots of Rust 🦀.
+I currently work at [Dimension](https://dimension.dev) working with infrastructure, systems & lots of Rust 🦀.
 
 ## Skills
 
