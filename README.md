@@ -1,5 +1,9 @@
 15, rust, systems and infra.
 
+currently building https://glist.ai
+
+emergent ventures 2023
+
 ## Skills
 
 - [Rust](https://rust-lang.org)
