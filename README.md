@@ -1,8 +1,6 @@
 15, rust, systems and infra.
 
-currently building https://glist.ai
-
-emergent ventures 2023
+trying to build a tool to help traffic engineers and traffic engineering firms better plan and analyze traffic.
 
 ## Skills
 
