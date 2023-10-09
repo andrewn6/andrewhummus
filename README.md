@@ -1,7 +1,6 @@
 15, rust, systems and infra.
 
-trying to build a tool to help traffic engineers and traffic engineering firms better plan and analyze traffic.
-
+trying to build a tool to help traffic engineers and traffic engineering firms better plan and analyze traffic flow
 ## Skills
 
 - [Rust](https://rust-lang.org)
