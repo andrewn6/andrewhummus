@@ -1,6 +1,9 @@
 15, rust, systems and infra.
 
-trying to build a tool to help traffic engineers and traffic engineering firms better plan and analyze traffic flow
+working on a tool to help traffic engineers make decisions faster.
+
+https://glist.ai.
+
 ## Skills
 
 - [Rust](https://rust-lang.org)
