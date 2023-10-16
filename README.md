@@ -1,8 +1,8 @@
 15, rust, systems and infra.
 
-working on a tool to help traffic engineers make decisions faster.
+leveraging ai to make traffic engineering more efficient.
 
-https://glist.ai.
+https://glist.ai
 
 ## Skills
 
