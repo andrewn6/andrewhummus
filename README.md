@@ -1,4 +1,4 @@
-hi i'm andrew, i'm working on glist a platform to make traffic management and planning seamless.
+hi i'm andrew, i'm working on glist -- we're solving traffic across cities.
 
 i've previously worked at frenter.com, dimension.dev and utopialabs.com
 
